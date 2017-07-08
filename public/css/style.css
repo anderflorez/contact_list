@@ -1,0 +1,32 @@
+h1 {
+	padding: 20px;
+	text-align: center;
+}
+
+.well {
+	background-color: #FF7f7f;
+}
+
+#search {
+	padding-bottom: 20px;
+}
+
+#form {
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+#form .btn {
+	float: right;
+	margin: 15px;
+}
+
+.formbtn > button {
+	font-size: 20px;
+	background-color: transparent;
+	border: none;
+}
+
+.formbtn input {
+	float: right;
+}
